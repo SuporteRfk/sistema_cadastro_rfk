@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Inter", serif;
+  font-weight: 400;
+  
+  /* colors */
+  --bg-color: #F3F4F6;
+  --text-color-main: #1F2937;
+  --text-color-default:#374151;
+  --color-accent:#00ADBB;
+  --color-border: #E5E7EB; 
+  --color-shadow: #E9EAEC; 
+  --color-error: #EF4444;
+  --color-success: #00C642;
+  --color-info: #3B82F6;
+  --color-warning: #FACC15 ;
+}
+
+
+
+
+
+
+
+
+
+
